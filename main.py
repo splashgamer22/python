@@ -1,3 +1,4 @@
+# Write your code here :-)
 from microbit import *
 
 # Pierre (rock)
@@ -34,6 +35,7 @@ while True:
         display.show(feuille)
         sleep(500)
 
-    display.clear(100)
+    display.clear()
     sleep(100)
+
 
